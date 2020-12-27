@@ -11,6 +11,18 @@ Curated List of Learning Resources
 
 # Demonstration of Jenkins Declarative Pipelines with Open-Blue-Ocean Plugin for a simple-java-maven-app
 
+Jenkins Declarative Pipelines are an easy way to create, adapt, and maintain continuous integration and continuous delivery pipelines as code. They can help your organization deliver better software. They provide an easy way to visualize the process of building, testing, and deploying software.
+
+After witnessing/completing this demonstration, you should understand:
+
+- How to create, run, analyze and save a Declarative Pipeline using the Blue Ocean Editor and the Blue Ocean text editor
+- The structure of a Declarative Pipeline, including the role of the stage, step, agent and post sections
+- How to control the flow of execution in a Declarative Pipeline
+- Pipeline capabilities that provide fit and finish to your Pipeline
+
+You’ll learn best practice solutions to help you maximize your use of Jenkins. You should expect to walk away with concrete best practices that you can implement, to level up your Jenkins and keep those Pipelines humming along.
+
+
 
 <pre>
 <a href="https://www.binpipe.org">BINPIPE</a> aims to simplify learning for those who are looking to make a foothold in the industry. 
