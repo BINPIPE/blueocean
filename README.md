@@ -9,7 +9,7 @@ Curated List of Learning Resources
 <mark>:ledger:[Lesson Plans & Videos](https://github.com/BINPIPE/resources/blob/master/devops-lesson-plans.md)</mark>
 
 
-# Demonstration of Jenkins Declarative Pipelines with Open-Blue-Ocean Plugin for a simple-java-maven-app
+# Demonstration of Jenkins Declarative Pipelines with Blue-Ocean Plugin for a simple-java-maven-app
 
 Jenkins Declarative Pipelines are an easy way to create, adapt, and maintain continuous integration and continuous delivery pipelines as code. They can help your organization deliver better software. They provide an easy way to visualize the process of building, testing, and deploying software.
 
