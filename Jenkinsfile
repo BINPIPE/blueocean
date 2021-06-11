@@ -11,6 +11,7 @@ pipeline {
         stage('Test') {
           steps {
             echo 'Testing'
+            sh 'chmod +x jenkins/test-all.sh'
             sh 'jenkins/test-all.sh'
             junit 'target/**/*.xml'
           }
@@ -34,6 +35,7 @@ pipeline {
     stage('Deploy') {
       steps {
         echo 'Deploying'
+        sh 'chmod +x jenkins/deploy.sh'
         sh 'jenkins/deploy.sh'
       }
     }
